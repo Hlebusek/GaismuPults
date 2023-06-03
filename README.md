@@ -42,7 +42,7 @@ Mikrokontrolieri ir savienoti šādā slēgumā
 
 
 # Programmas lietošana
-<img src="https://github.com/Hlebusek/GaismuPults/blob/main/images/AppMain.png?raw=true" width=40% height=40%>
+<img src="https://github.com/Hlebusek/GaismuPults/blob/main/images/AppMain.png?raw=true" width=50% height=50%>
 ## Pamatfunkcijas 
 1. Saglabāt uzstādītās gaismas/gaismu vērtības
 2. Visi saglabāto vērtību ieraksti
@@ -59,23 +59,23 @@ Mikrokontrolieri ir savienoti šādā slēgumā
 
 ## Kā pievienot ierīci?
 
-<img src="https://github.com/Hlebusek/GaismuPults/blob/main/images/AppAddDevice.png?raw=true" width=40% height=40%>
+<img src="https://github.com/Hlebusek/GaismuPults/blob/main/images/AppAddDevice.png?raw=true" width=50% height=50%>
   Uzspiežot uz pogu 6. atveras logs kurā var uzstādīt gaismas iekārtas vērtību adreses un nosaukumu
   
 ## Kā saglabāt/importēt izveidotās ierīces?
   Uzspiežot uz pogu 3. atveras logs kurā var saglabāt visu uzstādīto gaismu ierīču adreses.
   Lai importētu gaismu ierīču adrese jāspiež uz pogas 4. un jaunajā logā jāizvēlas saglabātais fails.
   
-  <img src="https://github.com/Hlebusek/GaismuPults/blob/main/images/AppImported.png?raw=true" width=40% height=40%>
+  <img src="https://github.com/Hlebusek/GaismuPults/blob/main/images/AppImported.png?raw=true" width=50% height=50%>
   
 ## Kā saglabāt uzstādītās vērtības?
 
-<img src="https://github.com/Hlebusek/GaismuPults/blob/main/images/AppSaveRec.png?raw=true" width=40% height=40%>
+<img src="https://github.com/Hlebusek/GaismuPults/blob/main/images/AppSaveRec.png?raw=true" width=50% height=50%>
 
 Uzpiežot uz pogas 1. atveras logs kurā var saglabāt visu gaismas iekārtu vai konkrētas iekārtas vērtības.
 Visi saglabātie vērtību ieraksti ir atrodami nospiežot uz pogas 2., nospiežot uz kuriem saglabātās vērtības atgriežas.
 
-<img src="https://github.com/Hlebusek/GaismuPults/blob/main/images/AppRecords.png?raw=true" width=40% height=40%>
+<img src="https://github.com/Hlebusek/GaismuPults/blob/main/images/AppRecords.png?raw=true" width=50% height=50%>
   
 
 ```diff
