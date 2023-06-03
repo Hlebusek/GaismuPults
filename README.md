@@ -31,7 +31,7 @@ Pieslēgt nepieciešamos mikrokontrolierus pie datora, un Arduino IDE vidē izv�
 [instrukcija](https://support.arduino.cc/hc/en-us/articles/4733418441116-Upload-a-sketch-in-Arduino-IDE)
 
 Pēc dotā attēla savienot mikrokontrolierus 
-
+![](https://github.com/Hlebusek/GaismuPults/blob/main/Wiring.png?raw=true)
 
 
 
