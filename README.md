@@ -19,12 +19,12 @@ python DesktopKivyApp/App.py
 ```
 # Pults konstruēšana
 ## nepieciešamie mikrokontrolieri un detaļas
-Jebkurš Esp8266 mikrokontrolieris
-Arduino Uno Rev3
-Arduino Nano
-Arduino Uno Ethernet Shield Rev3
+Jebkurš Esp8266 mikrokontrolieris,
+Arduino Uno Rev3,
+Arduino Nano,
+Arduino Uno Ethernet Shield Rev3,
 
-2 DMX/XLR 3 pin female connector
+2 DMX/XLR 3 pin female connector,
 max485 rs485 transceiver circuit module
 
 ## Instalācija
@@ -35,15 +35,14 @@ Pieslēgt nepieciešamos mikrokontrolierus pie datora, un Arduino IDE vidē izv�
 
 [instrukcija](https://support.arduino.cc/hc/en-us/articles/4733418441116-Upload-a-sketch-in-Arduino-IDE)
 
-Mikrokontrolieri savienoti šādā slēgumā
-![](https://github.com/Hlebusek/GaismuPults/blob/main/images/Wiring.png?raw=true)
+Mikrokontrolieri ir savienoti šādā slēgumā
 
+<img src="https://github.com/Hlebusek/GaismuPults/blob/main/images/Wiring.png?raw=true" width=30% height=30%>
 
 
 
 # Programmas lietošana
-![](https://github.com/Hlebusek/GaismuPults/blob/main/images/AppMain.png?raw=true)
-
+<img src="https://github.com/Hlebusek/GaismuPults/blob/main/images/AppMain.png?raw=true" width=40% height=40%>
 ## Pamatfunkcijas 
 1. Saglabāt uzstādītās gaismas/gaismu vērtības
 2. Visi saglabāto vērtību ieraksti
@@ -60,24 +59,27 @@ Mikrokontrolieri savienoti šādā slēgumā
 
 ## Kā pievienot ierīci?
 
-![](https://github.com/Hlebusek/GaismuPults/blob/main/images/AppAddDevice.png?raw=true)
+<img src="https://github.com/Hlebusek/GaismuPults/blob/main/images/AppAddDevice.png?raw=true" width=40% height=40%>
   Uzspiežot uz pogu 6. atveras logs kurā var uzstādīt gaismas iekārtas vērtību adreses un nosaukumu
   
 ## Kā saglabāt/importēt izveidotās ierīces?
   Uzspiežot uz pogu 3. atveras logs kurā var saglabāt visu uzstādīto gaismu ierīču adreses.
   Lai importētu gaismu ierīču adrese jāspiež uz pogas 4. un jaunajā logā jāizvēlas saglabātais fails.
-  ![](https://github.com/Hlebusek/GaismuPults/blob/main/images/AppImported.png?raw=true)
+  
+  <img src="https://github.com/Hlebusek/GaismuPults/blob/main/images/AppImported.png?raw=true" width=40% height=40%>
   
 ## Kā saglabāt uzstādītās vērtības?
 
-![](https://github.com/Hlebusek/GaismuPults/blob/main/images/AppSaveRec.png?raw=true)
+<img src="https://github.com/Hlebusek/GaismuPults/blob/main/images/AppSaveRec.png?raw=true" width=40% height=40%>
 
 Uzpiežot uz pogas 1. atveras logs kurā var saglabāt visu gaismas iekārtu vai konkrētas iekārtas vērtības.
 Visi saglabātie vērtību ieraksti ir atrodami nospiežot uz pogas 2., nospiežot uz kuriem saglabātās vērtības atgriežas.
 
-![](https://github.com/Hlebusek/GaismuPults/blob/main/images/AppRecords.png?raw=true)
+<img src="https://github.com/Hlebusek/GaismuPults/blob/main/images/AppRecords.png?raw=true" width=40% height=40%>
   
 
-  
+```diff
+-Created by Daniels Rudovičs, Kristers Korkls, Maksims Borovikovs :')
+```
 
 
