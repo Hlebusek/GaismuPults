@@ -64,6 +64,7 @@ Mikrokontrolieri savienoti šādā slēgumā
 ## Kā saglabāt/importēt izveidotās ierīces?
   Uzspiežot uz pogu 3. atveras logs kurā var saglabāt visu uzstādīto gaismu ierīču adreses.
   Lai importētu gaismu ierīču adrese jāspiež uz pogas 4. un jaunajā logā jāizvēlas saglabātais fails.
+  ![](https://github.com/Hlebusek/GaismuPults/blob/main/images/AppImported.png?raw=true)
   
 ## Kā saglabāt uzstādītās vērtības?
 
