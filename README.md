@@ -37,12 +37,13 @@ Pieslēgt nepieciešamos mikrokontrolierus pie datora, un Arduino IDE vidē izv�
 
 Mikrokontrolieri ir savienoti šādā slēgumā
 
-<img src="https://github.com/Hlebusek/GaismuPults/blob/main/images/Wiring.png?raw=true" width=30% height=30%>
+<img src="https://github.com/Hlebusek/GaismuPults/blob/main/images/Wiring.png?raw=true" width=40% height=40%>
 
 
 
 # Programmas lietošana
 <img src="https://github.com/Hlebusek/GaismuPults/blob/main/images/AppMain.png?raw=true" width=50% height=50%>
+
 ## Pamatfunkcijas 
 1. Saglabāt uzstādītās gaismas/gaismu vērtības
 2. Visi saglabāto vērtību ieraksti
