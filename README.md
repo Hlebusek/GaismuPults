@@ -1,5 +1,7 @@
 # GaismuPults
 Tālvadības gaismu pults uz arduino pamata izmantojot DMX512 standartu
+Projekts ir izveidots ar mērķi padarīt skatuves apgaismošanu maksimāli lētu, ērtu un praktisku.
+Darbs atrodas izstrādes processā un ikdienā tiek uzlabots.
 
 ## Nepieciešamā programmatūra
 Python 3.9 vai augstāka
