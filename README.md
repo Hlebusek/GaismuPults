@@ -57,6 +57,7 @@ Mikrokontrolieri savienoti šādā slēgumā
 12. Pārslēgt adrešu lapu uz priekšu
 
 ## Kā pievienot ierīci?
+
 ![](https://github.com/Hlebusek/GaismuPults/blob/main/images/AppAddDevice.png?raw=true)
   Uzspiežot uz pogu 6. atveras logs kurā var uzstādīt gaismas iekārtas vērtību adreses un nosaukumu
   
@@ -65,9 +66,12 @@ Mikrokontrolieri savienoti šādā slēgumā
   Lai importētu gaismu ierīču adrese jāspiež uz pogas 4. un jaunajā logā jāizvēlas saglabātais fails.
   
 ## Kā saglabāt uzstādītās vērtības?
+
 ![](https://github.com/Hlebusek/GaismuPults/blob/main/images/AppSaveRec.png?raw=true)
+
 Uzpiežot uz pogas 1. atveras logs kurā var saglabāt visu gaismas iekārtu vai konkrētas iekārtas vērtības.
 Visi saglabātie vērtību ieraksti ir atrodami nospiežot uz pogas 2., nospiežot uz kuriem saglabātās vērtības atgriežas.
+
 ![](https://github.com/Hlebusek/GaismuPults/blob/main/images/AppRecords.png?raw=true)
   
 
