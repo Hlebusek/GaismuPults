@@ -80,7 +80,7 @@ Visi saglabātie vērtību ieraksti ir atrodami nospiežot uz pogas 2., nospiež
   
 
 ```diff
--Created by Daniels Rudovičs, Kristers Korkls, Maksims Borovikovs :')
+-Created by Daniels Rudovičs :')
 ```
 
 
